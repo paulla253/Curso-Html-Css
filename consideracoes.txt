@@ -1,0 +1,3 @@
+Em cada página colocar apenas um H1
+
+Sempre seguir a hierarquia dos H's

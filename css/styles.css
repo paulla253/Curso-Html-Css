@@ -1,31 +1,14 @@
 /*Preferencia do CSS : ID,Class,TAG*/
 
-
-
-/*Colocar em todo o site(trabalhar com colunas)*/
-*{
-    box-sizing: border-box;
-}
+@import url('reset.css');
+@import url('grid.css');
+@import url('buttons.css');
+@import url('typography.css');
+@import url('icons.css');
 
 body {
     font-family: 'Open Sans', sans-serif;
-    margin: 0;
-    padding: 0;
-}
-
-a {
-    text-decoration: none;
-}
-
-#header .btn {
-    background-color: rgb(84, 209, 84);
-    font-size: 16px;
-    border-radius: 30px;
-    padding: 10px 30px;
-}
-
-#header .btn:hover {
-    background-color: rgb(84, 180, 84);
+    color: rgb(130,130,130);
 }
 
 #header nav a {
@@ -59,6 +42,7 @@ a {
 
 #header a {
     color: #ffffff;
+    transition: ease .5s all;
 }
 
 
@@ -86,3 +70,9 @@ a {
 
     text-align: center;
 }
+
+#how-it-work {
+    text-align: center;
+    padding:30px 0px 30px 0;
+}
+
