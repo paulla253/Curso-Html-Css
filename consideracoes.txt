@@ -1,3 +1,13 @@
 Em cada página colocar apenas um H1
 
 Sempre seguir a hierarquia dos H's
+
+Icones:
+
+https://getbootstrap.com/docs/3.3/components/
+
+http://ionicons.com/
+
+https://material.io/icons/ Precisa colocar para poder usar :<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+Para utilizar : <i class="material-icons">nome</i>
