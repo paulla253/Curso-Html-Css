@@ -10,6 +10,8 @@
 body {
     font-family: 'Open Sans', sans-serif;
     color: rgb(130,130,130);
+    /*Aumentar o espaçamento das linhas*/
+    line-height:25px;
 }
 
 #header nav a {
