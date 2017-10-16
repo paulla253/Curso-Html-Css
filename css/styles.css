@@ -33,6 +33,8 @@ body {
 
 #header {
 
+    /*Efeito do parallax*/
+    background: #000 no-repeat fixed center;
     /*Preencher a tela toda*/
     background-size: cover;
     color: #ffffff;
