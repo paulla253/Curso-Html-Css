@@ -146,3 +146,9 @@ body {
     background-color: rgb(34, 34, 34);
     padding: 10px;
 }
+/*Até as janelas de 992*/
+@media (max-width: 992px) {
+    #header, #header nav {
+        text-align: center;
+    }
+}
