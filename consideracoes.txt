@@ -11,3 +11,12 @@ http://ionicons.com/
 https://material.io/icons/ Precisa colocar para poder usar :<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
 Para utilizar : <i class="material-icons">nome</i>
+
+
+Minimificar nodejs
+
+npm install -g minifier
+
+/entrar na pagina de css
+
+minify nomePasta
