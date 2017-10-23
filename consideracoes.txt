@@ -20,3 +20,10 @@ npm install -g minifier
 /entrar na pagina de css
 
 minify nomePasta
+
+
+Colocar site no ar pelo github.
+
+settings >GitHub Pages
+
+Em source>None colocar masterbranch e salve e vai oferecer um link de publicação.
